@@ -1,4 +1,4 @@
-#PART 1
+# PART 1: Alphabet puzzle similar to 2048
 
 Problem Solving Approach:
 
@@ -34,7 +34,7 @@ Citation:
 Discussed the types of heuristics that can be used with vanshah.
 
 
-##Part 2
+# Part 2: Geolocating images by finding horizon
 
 Logic:
 viterbi Algorithm used:
